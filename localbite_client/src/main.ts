@@ -4,6 +4,8 @@ import { createApp } from 'vue'
 import { createPinia } from 'pinia'
 import PrimeVue from 'primevue/config'
 import Lara from '@primevue/themes/lara'
+import 'primeicons/primeicons.css'
+
 
 import { Form } from '@primevue/forms';
 
