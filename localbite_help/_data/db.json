@@ -1,0 +1,39 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Login funktioniert nicht",
+      "body": "Ich kann mich nicht mit meinen Anmeldedaten einloggen. Bitte um Hilfe.",
+      "priority": "high",
+      "user_email": "benutzer1@example.com"
+    },
+    {
+      "id": 2,
+      "title": "Seite lädt langsam",
+      "body": "Die Webseite braucht sehr lange, um zu laden. Gibt es ein Problem mit dem Server?",
+      "priority": "medium",
+      "user_email": "benutzer2@example.com"
+    },
+    {
+      "id": 3,
+      "title": "Feature-Anfrage: Dark Mode",
+      "body": "Es wäre großartig, wenn es einen Dark Mode für die App geben würde.",
+      "priority": "low",
+      "user_email": "benutzer3@example.com"
+    },
+    {
+      "id": 4,
+      "title": "Zahlung fehlgeschlagen",
+      "body": "Meine Kreditkarte wurde abgelehnt, obwohl die Daten korrekt sind.",
+      "priority": "high",
+      "user_email": "benutzer4@example.com"
+    },
+    {
+      "id": 5,
+      "title": "Fehler bei der Registrierung",
+      "body": "Ich erhalte eine Fehlermeldung, wenn ich versuche, mich zu registrieren.",
+      "priority": "critical",
+      "user_email": "benutzer5@example.com"
+    }
+  ]
+}
