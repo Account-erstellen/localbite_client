@@ -3,5 +3,5 @@ import { NgModule } from '@angular/core';
 import { ButtonDemoComponent } from './button-demo/button-demo.component'
 
 export const routes: Routes = [
-  { path: 'Button', component: ButtonDemoComponent },
+  { path: 'Dashboard', component: ButtonDemoComponent },
 ];
